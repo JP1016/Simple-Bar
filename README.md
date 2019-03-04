@@ -1,6 +1,11 @@
 # Simplebar 
-
-[![SimpleBar](https://github.com/JP1016/Simple-Bar/blob/master/assets/bitbucket.png?raw=true "SimpleBar")]()
+Examples
+[![SimpleBar](https://raw.githubusercontent.com/JP1016/Simple-Bar/master/assets/bitbucket.PNG)]()
+[![SimpleBar](https://raw.githubusercontent.com/JP1016/Simple-Bar/master/assets/github.PNG)]()
+[![SimpleBar](https://raw.githubusercontent.com/JP1016/Simple-Bar/master/assets/gmail.PNG)]()
+[![SimpleBar](https://raw.githubusercontent.com/JP1016/Simple-Bar/master/assets/medium.PNG)]()
+[![SimpleBar](https://raw.githubusercontent.com/JP1016/Simple-Bar/master/assets/new-medium.PNG)]()
+[![SimpleBar](https://raw.githubusercontent.com/JP1016/Simple-Bar/master/assets/devzstudio.PNG)]()
 
 ### 💡 Simplebar Library: Easily add navbar to your angular project
 
